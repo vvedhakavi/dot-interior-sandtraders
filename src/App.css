@@ -1,0 +1,16 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.5.0/remixicon.min.css');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  margin: 0;
+  padding: 0;
+ box-sizing: border-box;
+}
+.main {
+  position: relative;
+  top: 70px;
+}
+.txt-gray{
+  color: #dfdfdfd1;
+}

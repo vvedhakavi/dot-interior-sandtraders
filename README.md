@@ -1,12 +1,83 @@
-# React + Vite
+# DOT Interior Sand Traders
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Description
 
-Currently, two official plugins are available:
+DOT Interior Sand Traders is a modern and responsive business website built using React.js. The application is designed to showcase interior design materials, sand trading services, and construction-related products. It provides customers with an easy way to explore services, view products, and contact the business through a clean and user-friendly interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+* Responsive Design
+* Modern UI/UX
+* Product Showcase
+* Service Details
+* Contact Information
+* Fast Navigation
+* Mobile-Friendly Layout
+* React Component-Based Architecture
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+### Frontend
+
+* React.js
+* JavaScript
+* HTML5
+* CSS3
+
+### Tools
+
+* Vite
+* Git
+* GitHub
+
+## Live Demo
+
+Add your deployed website link here:
+
+https://dotinteriorsandtraders.com/
+
+## Installation Steps
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/vvedhakavi/dot-interior-sandtraders.git
+```
+
+2. Navigate to the project directory
+
+```bash
+cd dot-interior-sandtraders
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Start development server
+
+```bash
+npm run dev
+```
+
+## Future Improvements
+
+* Product Inquiry Form
+* Admin Management Panel
+* Backend Integration
+* Database Connectivity
+* Online Quotation System
+
+## Author
+
+Kavibharathi P
+
+Frontend Developer
+
+GitHub: https://github.com/vvedhakavi
+
+LinkedIn: https://www.linkedin.com/in/kavibharathi-palanisamy-40a81a220
+
+Portfolio: https://kavibharathi-portfolio-bay.vercel.app/

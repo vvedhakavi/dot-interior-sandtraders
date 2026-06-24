@@ -32,8 +32,6 @@ DOT Interior Sand Traders is a modern and responsive business website built usin
 
 ## Live Demo
 
-Add your deployed website link here:
-
 https://dotinteriorsandtraders.com/
 
 ## Installation Steps
